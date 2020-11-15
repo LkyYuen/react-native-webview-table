@@ -1,12 +1,13 @@
 {
   "name": "react-native-webview-table",
   "title": "React Native Webview Table",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native Webview Table",
   "main": "index.js",
   "files": [
     "README.md",
-    "index.js"
+    "index.js",
+    "*"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
